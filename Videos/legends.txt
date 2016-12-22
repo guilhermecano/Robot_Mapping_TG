@@ -1,0 +1,10 @@
+The colors on the videos represent algorithms as listed below:
+
+Laser Rangefinder/SLAM -> Black
+
+Odometry with correction by computer vision (closed loop)-> Blue
+
+Simple odometry (open loop) -> Green
+
+Real localization -> Red
+
